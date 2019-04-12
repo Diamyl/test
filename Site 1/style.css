@@ -1,0 +1,105 @@
+
+#conteneur{
+		position: relative;
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+li{
+	margin: 0px;
+	list-style-type: none;
+	float: left;
+	border: 1px solid;
+}
+a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px 86px;
+}
+#logo {
+		border: 3px solid;
+		margin-left: 200px;
+		margin-right: 200px;
+		height: 50px;
+		width: 895px;
+}
+#menu {
+		position: absolute;
+		border: 3px solid;
+		margin-left: 200px;
+		margin-right: 200px;
+		height: 30px;
+		width: 895px;
+		top: 60px;
+}
+
+#corps {
+		position: absolute;
+		margin-left: 200px;
+		margin-right: 200px;
+		height: 415px;
+		top: 100px;
+		width: 900px;
+}
+#bloc1 {
+		position: absolute;
+		border: 3px solid;
+		left: 0px;
+		top: 0px;
+		height: 409px;
+		width: 600px;
+}
+
+#bloc2 {
+		position: absolute;
+		border: 3px solid;
+		height: 200px;
+		width: 280px;
+		right: 0px;
+}
+
+#bloc3 {
+		position: absolute;
+		border: 3px solid;
+		height: 200px;
+		width: 280px;
+		bottom: 0px;
+		right: 0px;
+}
+
+#footer{
+		position: relative;
+		height: 50px;
+		width: 900px;
+		margin-left: 200px;
+		margin-right: 200px;
+		top: 460px;
+}
+
+#f1{
+	position: absolute;
+	border: 3px solid;
+	width: 290px;
+	height: 50px;
+
+}
+
+#f2{
+	position: absolute;
+	border: 3px solid;
+	width: 290px;
+	left: 302px;
+	height: 50px;
+
+}
+
+#f3{
+	position: absolute;
+	border: 3px solid;
+	width: 290px;
+	right: 0px;
+	height: 50px;
+
+}
